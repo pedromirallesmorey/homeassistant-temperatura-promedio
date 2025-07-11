@@ -1,6 +1,3 @@
-# temperatura-promedio
-Crear un sensor personalizado que calcule la temperatura promedio de varias estancias
-
 # 🏠 Cómo calcular la temperatura promedio de tu casa con Home Assistant
 
 Este tutorial te guía paso a paso para crear un sensor personalizado que calcule la temperatura promedio de varias estancias en tu hogar usando Home Assistant.
